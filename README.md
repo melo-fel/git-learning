@@ -1,0 +1,1 @@
+Repository that holds collection of poetry {Made in Git}
